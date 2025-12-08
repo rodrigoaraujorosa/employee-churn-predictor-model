@@ -1,0 +1,14 @@
+# Dependências de desenvolvimento e testes
+pytest
+black
+flake8
+isort
+mypy
+
+# Extensões adicionais para Jupyter
+nbformat
+nbconvert
+
+# Documentação (opcional)
+sphinx
+sphinx-rtd-theme

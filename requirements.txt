@@ -1,0 +1,28 @@
+# Dependências principais para Machine Learning
+pandas
+numpy
+scikit-learn
+
+# Visualização
+matplotlib
+seaborn
+plotly
+
+# Jupyter Notebooks
+jupyter
+jupyterlab
+ipywidgets
+
+# Utilitários
+requests
+joblib
+
+# Desenvolvimento (opcionais - podem ser instaladas separadamente)
+# Para instalar também as dependências de dev, use: pip install -r requirements.txt -r requirements-dev.txt
+# Ou descomente as linhas abaixo para instalar tudo junto:
+
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
+# isort>=5.12.0
+# mypy>=1.5.0
