@@ -151,3 +151,8 @@ ml_project.log
 temp/
 tmp/
 *.tmp
+
+# Arquivos do boilerplate
+config/
+Makefile
+setup.*
