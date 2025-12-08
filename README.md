@@ -56,5 +56,7 @@ code .
 Para garantir resultados reprodutíveis, o notebook define `np.random.seed(42)` e usa `random_state=42` na divisão de treino.
 
 ## Licença
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Uso educacional. Ajuste conforme necessário para seu contexto.
 
