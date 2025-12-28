@@ -50,6 +50,7 @@ Construir um modelo preditivo capaz de identificar colaboradores com alta probab
 ### Pré-requisitos
 - Python 3.10 ou superior
 - pip (gerenciador de pacotes Python)
+- Graphviz (para visualização de árvores de decisão). Baixe e instale o Graphviz através do [site oficial](https://graphviz.org/download/).
 - VS Code com extensão Jupyter (recomendado)
 
 ### Instalação
