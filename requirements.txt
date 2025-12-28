@@ -9,7 +9,6 @@ seaborn
 plotly
 dtreeviz
 yellowbrick
-pydotplus
 
 # Jupyter Notebooks
 jupyter
